@@ -1,0 +1,35 @@
+@import"~ed-grid";
+@import"~edteam-style-guides/edteam-style-guides";
+
+body{
+    background-color: rgb(223, 245, 220);
+}
+.main-banner{
+    background-color: brown;
+}
+#foot{
+    background-color: brown !important;
+}
+input{
+
+
+    font-size: 10px;
+    
+}
+h1{
+    text-align: center;
+    color: darkorange;
+}
+#boton1{
+    position: relative;
+    width: 200px;
+    float: left;
+    margin-top: 10px;
+    background-color: cornflowerblue;
+}
+#boton2{
+    position: absolute;
+    width: 200px;
+    float: right;
+    margin-top: 10px;
+}
